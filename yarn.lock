@@ -6029,29 +6029,29 @@ supports-color@^5.1.0:
   dependencies:
     has-flag "^2.0.0"
 
-survey-knockout@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/survey-knockout/-/survey-knockout-1.0.3.tgz#54a37f804b9eb1ce1b6d9367b922d7221fb8f5fa"
+survey-knockout@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/survey-knockout/-/survey-knockout-1.0.4.tgz#e9541df73955bf4c6d716606b1859efd4a6f912c"
   dependencies:
     knockout "^3.4.0"
 
-survey-react@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/survey-react/-/survey-react-1.0.3.tgz#955789f61df0038d76a744365a643272a7803012"
+survey-react@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/survey-react/-/survey-react-1.0.4.tgz#53a8f8403b5b7e9d6486f9f72dd777a150614d00"
 
-surveyjs-editor@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/surveyjs-editor/-/surveyjs-editor-1.0.3.tgz#9605d004c2db370be65774615e7313f0bca9f0de"
+surveyjs-editor@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/surveyjs-editor/-/surveyjs-editor-1.0.4.tgz#c96d8f7e8b6ad548ed8fdd3cb11dcfa96a36581b"
   dependencies:
     "@types/knockout" "^3.4.0"
     ace-builds "^1.2.2"
     bootstrap "^3.3.6"
     knockout "^3.4.0"
-    survey-knockout "^1.0.3"
+    survey-knockout "^1.0.4"
 
-surveyjs-widgets@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/surveyjs-widgets/-/surveyjs-widgets-1.0.3.tgz#990b221b636735cef46440a26b5bb8b76e423424"
+surveyjs-widgets@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/surveyjs-widgets/-/surveyjs-widgets-1.0.4.tgz#e12d597af382685cb984338ba14adebb37b48fcd"
   dependencies:
     bootstrap-slider "^10.0.0"
     easy-autocomplete "^1.3.5"
